@@ -13,7 +13,6 @@ public class Questao04 {
         char[] consoantes = new char[10];
         int contador = 0;
 
-       
         for (int i = 0; i < letras.length; i++) {
 
             System.out.print("Digite a letra " + (i + 1) + ": ");

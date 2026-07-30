@@ -9,8 +9,7 @@ public class Questao06 {
         double[] medias = new double[10];
         double soma = 0;
         int aprovados = 0;
-        
-
+    
         for (int i=0; i<medias.length; i++){
             soma=0;
 

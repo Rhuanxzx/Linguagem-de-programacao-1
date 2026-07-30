@@ -50,6 +50,7 @@ public class Questao05 {
         {
             System.out.print(impar[i] + " ");
         }
+        
         System.out.println();
         scanner.close();
       

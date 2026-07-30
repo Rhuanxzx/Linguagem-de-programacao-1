@@ -22,5 +22,6 @@ public class Questao03{
 
 
     }System.out.println("A média é: " + media);
-        }
+        
+}
 } 
